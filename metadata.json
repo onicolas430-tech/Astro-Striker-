@@ -1,0 +1,6 @@
+{
+  "name": "Astro Striker - Space Fighter",
+  "description": "Juego arcade de disparos espaciales con sistema de vuelo reactivo, proyectiles láser y combate contra oleadas de enemigos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
